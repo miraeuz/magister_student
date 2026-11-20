@@ -1,7 +1,0 @@
-{
-  "nav": { "platform": "PLATFORMA", "personal": "SHAXSIY", "home": "Bosh sahifa", "education": "Ta'lim", "hub": "Hub", "community": "Community", "challenges": "Challenges", "rank": "Reyting", "profile": "Profil", "settings": "Sozlamalar" },
-  "top": { "toggleSide": "Yon menyuni ochish yoki yig'ish", "search": "Qidirish", "create": "Yaratish", "tasks": "Topshiriqlar, 3 ta kutilmoqda", "chats": "Chatlar, 7 ta yangi xabar", "bell": "Bildirishnomalar, 2 ta yangi", "account": "Hisob menyusi" },
-  "menu": { "profile": "Profilim", "settings": "Sozlamalar", "theme": "Mavzu", "light": "Yorug'", "dark": "Qorong'i", "system": "Tizim", "accent": "Asosiy rang", "language": "Til", "help": "Yordam", "logout": "Chiqish" },
-  "plus": { "ask": "Savol berish", "repo": "Repozitoriya yaratish", "article": "Maqola yozish", "solve": "Masala yechish", "join": "Guruhga kod bilan qo'shilish" },
-  "rank": { "level": "8-daraja · Tadqiqotchi", "next": "8 240 XP · keyingisigacha 1 760" }
-}
