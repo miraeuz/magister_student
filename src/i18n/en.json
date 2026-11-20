@@ -1,0 +1,7 @@
+{
+  "nav": { "platform": "PLATFORM", "personal": "PERSONAL", "home": "Home", "education": "Learning", "hub": "Hub", "community": "Community", "challenges": "Challenges", "rank": "Leaderboard", "profile": "Profile", "settings": "Settings" },
+  "top": { "toggleSide": "Open or collapse the side menu", "search": "Search", "create": "Create", "tasks": "Tasks, 3 pending", "chats": "Chats, 7 new messages", "bell": "Notifications, 2 new", "account": "Account menu" },
+  "menu": { "profile": "My profile", "settings": "Settings", "theme": "Theme", "light": "Light", "dark": "Dark", "system": "System", "accent": "Accent colour", "language": "Language", "help": "Help", "logout": "Log out" },
+  "plus": { "ask": "Ask a question", "repo": "Create repository", "article": "Write an article", "solve": "Solve a problem", "join": "Join a group with a code" },
+  "rank": { "level": "Level 8 · Researcher", "next": "8,240 XP · 1,760 to next level" }
+}
